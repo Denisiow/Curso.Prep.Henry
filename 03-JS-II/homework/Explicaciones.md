@@ -1,4 +1,4 @@
-#For, &&, ||, y !
+# For, &&, ||, y !
 
 For es un bucle que se usa para funciones repetitivas, que busca lo que queramos hasta 
 que lo encuentre o hasta que se detenga el bucle.
